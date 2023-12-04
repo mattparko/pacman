@@ -16,6 +16,9 @@ A Node.js pacman game application. High scores are stored in MongoDB
   - `install-pacman` to install the npm dependencies
   - `start-mongo` to start the mongo process in your dedicated mongon container
   - `run-pacman` to run the application
+  
+
+  
 
 
 
